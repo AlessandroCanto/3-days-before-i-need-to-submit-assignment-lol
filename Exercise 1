@@ -1,0 +1,23 @@
+//Creating a class and basics
+public class Main {
+  /*create class "Main"
+  important elements of a class are that it contains fields and methods 
+  Fields store data points corresponding to class 
+  Behaviors are actions that can be responded or reciprocate to events/inputs.
+  */
+  
+  int x = 5; //creates x field with a value of 5
+  
+  public static void main(String[] args) {
+     //the entry point of program meaning everything within this code will be executed at first. 
+     Main obj = new Main() //instantiates object 
+     system.out.println(obj.x) //test and it should print the number 5 
+  }
+   
+}
+
+/*Further Thinking
+create a new class named whatever you want 
+add 5 different number field names. 
+After making the object, calculate its sum by refercing the class' fields in print statement. 
+
