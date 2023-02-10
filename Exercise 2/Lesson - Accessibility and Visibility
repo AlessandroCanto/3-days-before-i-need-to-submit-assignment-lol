@@ -1,0 +1,15 @@
+When declaring fields and methods, it's important to keep track of what modifier is being used because
+its accessibility and functionality changes.
+
+Access Modifiers -
+Public: anywhere in the program
+Private: within the class 
+Protected: within the class and its subclasses
+No Modifier: only within package
+
+Non Access Modifiers - 
+Final: renders variables/methods unchangeable
+Static: makes it independent of instance creation
+
+This is applicable in the creation of fields and methods results because some of them shouldn't be easily modifiable. 
+
