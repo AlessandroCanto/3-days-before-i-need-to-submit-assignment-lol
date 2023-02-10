@@ -1,0 +1,28 @@
+#1 Creating a class named "School" with the following fields:
+'Name' (String)
+'Student Popultation' (Int)
+'Teacher Population' (Int)
+'Size of School' (Int)
+
+Create a method for 
+ - Student to teacher ratio
+ - Total school population
+ 
+Having the results of from both functions combined into one print statement
+
+#2 
+Consider the code:
+class Book {
+  String name = "Harry Potter";
+  int page_count = 12 ;
+  
+  public static void main(String args[]) {
+     Book test = new Book();
+     System.out.println(test.name)
+  }
+
+}
+What is resultant of this piece of code?
+
+#3 
+How are objects instantiated in Java?
