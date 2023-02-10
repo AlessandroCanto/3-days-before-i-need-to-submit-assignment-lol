@@ -1,1 +1,10 @@
-y
+Abstraction: it's the process of hiding implementation details and providing only necessary details
+Encapsulation: biding fields and behaviors within one class
+Inheritance:
+Polymorphism: 
+
+
+
+
+These concepts comprise the foundation of Object Oriented Programming in Java and will be used extensively during the game development 
+section of the course
