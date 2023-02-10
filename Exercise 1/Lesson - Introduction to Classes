@@ -1,0 +1,19 @@
+Benefits of OOP Programming: 
+- faster to execute 
+- provides structure to code (reduces redundancy)
+- easier to modify, create and debug 
+
+A class is a template consisting of data fields and behaviors. 
+The object-oriented nature derives from when a class is created, it creates an instance of the class which is known as an object. 
+
+
+In order to make a class in Java, it follows a simple strucutre:
+modifier (accessibility and visibility)  + "class" keyword (classifies it as a class)
+
+To create an object (instance of class): 
+type of object (class name) + name object = new (operator) + class declaration (potential arguments)
+
+You can have an unlimited number of classes and instances of corresponding class. However, an abudance of repetive declaration conflicts with the purpose
+of streamlining the process with OOP. 
+
+
