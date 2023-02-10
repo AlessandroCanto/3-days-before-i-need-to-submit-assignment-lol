@@ -1,0 +1,19 @@
+#1 
+Consider the code:
+What is the cause of error?
+public class Person {
+    final String name;
+    public int age;
+    
+    public static void main(String args[]) {
+      Person person = new Person()
+      person.name = "Dylan"
+      
+    }
+
+}
+#2
+Make an application that adds numbers a and b using a static method called "addition"
+
+#3
+What are the advantages and disadvantages of modifiers' applications?
