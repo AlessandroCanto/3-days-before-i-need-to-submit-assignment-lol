@@ -13,6 +13,12 @@ modifier (accessibility and visibility)  + "class" keyword (classifies it as a c
 To create an object (instance of class): 
 type of object (class name) + name object = new (operator) + class declaration (potential arguments)
 
+Fields - variables that store the state/characterisitcs of object
+Behaviours - actions of object 
+
+For simplicity's sake at this time, fields and behaviors will be accessible with "." after the instance of class has been created. 
+
+
 You can have an unlimited number of classes and instances of corresponding class. However, an abudance of repetive declaration conflicts with the purpose
 of streamlining the process with OOP. 
 
